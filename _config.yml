@@ -65,7 +65,7 @@ author:
     - label: "办公室电话: 028-000000"
       icon: "fas fa-fw fa-phone"
       url: "028-000000"
-    - label: "办公室邮箱:zhs@126.com"
+    - label: "办公室邮箱: zhs@126.com"
       icon: "fa fa-address-book"
       url: "zhs@126.com"
 

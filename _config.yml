@@ -66,7 +66,7 @@ author:
       icon: "fas fa-fw fa-phone"
       url: "028-0000"
     - label: "办公室邮箱"
-      icon: "fab fa-fw fa-email"
+      icon: "fab fa-fw fa-mail"
       url: "zhs@126.com"
 
 

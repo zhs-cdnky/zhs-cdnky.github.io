@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
+  - title: "团队新闻"
     url: /posts/
-  - title: "Categories"
+  - title: "研究方向"
     url: /categories/
-  - title: "Tags"
+  - title: "最新成果"
     url: /tags/
-  - title: "About"
+  - title: "团队简介"
     url: /about/

@@ -1,5 +1,5 @@
 main:
-  - title: "团队新闻"
+  - title: "新闻动态"
     url: /posts/
   - title: "研究方向"
     url: /categories/
@@ -7,3 +7,5 @@ main:
     url: /tags/
   - title: "团队简介"
     url: /about/
+  - title: "交流合作"
+    url: /cooperation/

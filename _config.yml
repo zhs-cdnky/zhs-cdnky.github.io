@@ -62,18 +62,13 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "助推农业、服务农业、奉献农业"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
+    - label: "办公室电话"
+      icon: "fas fa-fw fa-phone"
+      url: "028-0000"
+    - label: "办公室邮箱"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "zhs@126.com"
+
 
 footer:
   links:

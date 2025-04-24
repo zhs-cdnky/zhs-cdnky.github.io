@@ -61,13 +61,6 @@ author:
   name   : "全所职工合照"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "助推农业、服务农业、奉献农业"
-  links:
-    - label: "办公室电话: 028-000000"
-      icon: "fas fa-fw fa-phone"
-      url: "028-000000"
-    - label: "办公室邮箱: zhs@126.com"
-      icon: "fa fa-address-book"
-      url: "zhs@126.com"
 
 
 footer:

@@ -4,7 +4,7 @@ main:
   - title: "研究方向"
     url: /categories/
   - title: "最新成果"
-    url: /tags/
+    url: /achievements/
   - title: "团队简介"
     url: /about/
   - title: "交流合作"

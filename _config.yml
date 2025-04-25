@@ -14,7 +14,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: 成都市农林科学院资源环境研究所-创新团队
-email:
 description: 成都市农林科学院资源环境研究所创新团队网站 |  Innovation Team Website of the Resource and Environment Institute, Chengdu Academy of Agriculture and Forestry Sciences
 minimal_mistakes_skin: default
 search: true
@@ -76,7 +75,7 @@ defaults:
       read_time: true
       comments: true
       share: false
-      related: true
+      related: false
   # _pages
   - scope:
       path: "_pages"

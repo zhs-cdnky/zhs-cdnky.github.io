@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "全所职工合照"
+  name   : "为人民服务"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "助推农业、服务农业、奉献农业"
 

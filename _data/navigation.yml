@@ -2,7 +2,7 @@ main:
   - title: "新闻动态"
     url: /posts/
   - title: "研究方向"
-    url: /categories/
+    url: /fields/
   - title: "最新成果"
     url: /achievements/
   - title: "团队简介"

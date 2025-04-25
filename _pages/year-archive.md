@@ -1,5 +1,5 @@
 ---
-title: "新闻速览"
+title: "新闻动态"
 permalink: /posts/
 layout: posts
 author_profile: false

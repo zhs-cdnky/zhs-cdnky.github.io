@@ -3,7 +3,8 @@ permalink: /about/
 title: "团队简介"
 author_profile: false
 ---
-团队成员按照姓氏首字母排序如下：
+<span style="color: #7cc0c9;">团队成员按照姓氏首字母排序如下：</span>
+
 <table>
   <tr>
     <td style="text-align: center; padding: 10px;">

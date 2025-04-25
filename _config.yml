@@ -59,12 +59,13 @@ author:
 
 footer:
   links:
+    - label: "成都市人民政府"
+      icon: "fa fa-bank"
+      url: "https://www.chengdu.gov.cn/"
     - label: "成都市农林科学院"
       icon: "fa fa-bank"
       url: "http://www.cdnky.com/"
-      - label: "成都市政府"
-       icon: "fa fa-bank"
-      url: "https://www.chengdu.gov.cn/"
+
   
 
 defaults:
